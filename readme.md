@@ -36,7 +36,7 @@ YAGNI: You aren't gonna need it (don’t add code until deemed necessity)
 
 
 
-### How it work
+### How it works
 This project was done on IntelliJ with Maven, so simply import the project and launch the src\main\java\Tester.java
 
 To be useful, it is worthy to follow as much the code and logs meanwhile
