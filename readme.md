@@ -1,4 +1,4 @@
-# <img src="https://github.com/Phoenix1978/Solid-demonstrator/blob/main/icon.jpg" alt="" width=100/>  
+# <img src="https://github.com/Phoenix1978/Solid-demonstrator/blob/main/icon.jpg" alt="" width=200/>  
 SOLID principles demonstrator
 ========
 
